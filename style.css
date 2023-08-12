@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+#result{
+    font-size: 18px;
+    font-weight: bold;
+}
